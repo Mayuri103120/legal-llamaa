@@ -5,9 +5,9 @@
 > 
 > **Date:** 01st April, 2023
 > 
-> **Team Members:** Spriha Jha, Mayuri Upadhyaya, Debopriyo Bhowmick
+> **Team Members:** Mayuri Upadhyaya, Debopriyo Bhowmick, Spriha Jha
 > 
-> **Prize Won:** $3000 credits for best use of [Cohere](https://cohere.ai/)
+> **Prize Won:** $3000 [Cohere](https://cohere.ai/) credits.
 
 ### Installation
 To run the application on your local machine, follow these steps:
